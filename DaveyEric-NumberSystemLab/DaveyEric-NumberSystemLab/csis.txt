@@ -1,0 +1,243 @@
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+1
+Enter your number in Decimal: 
+65535
+0000 0000 0000 0000 1111 1111 1111 1111 
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+1
+Enter your number in Decimal: 
+1000000
+0000 0000 0000 1111 0100 0010 0100 0000 
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+1
+Enter your number in Decimal: 
+1234567890
+0100 1001 1001 0110 0000 0010 1101 0010 
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+2
+Enter your number in Decimal: 
+65535
+FFFF
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+2
+Enter your number in Decimal: 
+1000000
+F4240
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+2
+Enter your number in Decimal: 
+1234567890
+499602D2
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+3
+Enter your number in binary: 
+01100101110011011010111000000101
+1707978245
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+3
+Enter your number in binary: 
+01111111111111110010000111010011
+2147426771
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+3
+Enter your number in binary: 
+00000000000000000000000000000010
+2
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+4
+Enter your number in binary: 
+01100101110011011010111000000101
+65CDAE05
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+4
+Enter your number in binary: 
+01111111111111110010000111010011
+7FFF21D3
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+4
+Enter your number in binary: 
+00101011101011010111011000111010
+2BAD763A
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+5
+Enter your number in hexadecimal: 
+12345678
+305419896
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+5
+Enter your number in hexadecimal: 
+2A3DF8A7
+708704423
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+5
+Enter your number in hexadecimal: 
+00FF00FF
+16711935
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+6
+Enter your number in hexadecimal: 
+12345678
+0001 0010 0011 0100 0101 0110 0111 1000 
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+6
+Enter your number in hexadecimal: 
+2A3DF8A7
+0010 1010 0011 1101 1111 1000 1010 0111 
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+6
+Enter your number in hexadecimal: 
+00FF00FF
+0000 0000 1111 1111 0000 0000 1111 1111 
+
+Menu, input number coresponding to the selection:
+1  :  Decimal to Binary
+2  :  Decimal to Hexidecimal
+3  :  Binary to Decimal
+4  :  Binary to Hexideximal
+5  :  Hexidecimal to Decimal
+6  :  Hexidecimal to Binary
+7   :  Quit
+7

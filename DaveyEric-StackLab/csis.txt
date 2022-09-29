@@ -1,0 +1,40 @@
+Infix   : 8 + 4 * 2 - 6
+Postfix : 842*+6-
+Solution: 10
+
+Infix   : 7 * 2 - 4 * 3 + 2 * 5
+Postfix : 72*43*-25*+
+Solution: 12
+
+Infix   : 2 * 3 * 4 - 8 + 9 / 3 / 3
+Postfix : 23*4*8-93/3/+
+Solution: 17
+
+Infix   : 5 + 7 * 4 - 6
+Postfix : 574*+6-
+Solution: 27
+
+Infix   : 4 * ( 3 + 2 * 4 ) - 7
+Postfix : 4324*+*7-
+Solution: 37
+
+Infix   : ( 5 + 7 ) / ( 9 - 5 )
+Postfix : 57+95-/
+Solution: 3
+
+Infix   : 3 * ( 5 * ( 5 - 2 ) ) - 9
+Postfix : 3552-**9-
+Solution: 36
+
+Infix   : ( ( 5 * ( 4 + 2 ) - ( 8 + 8 ) / 2 ) - 9 ) ^ 3
+Postfix : 542+*88+2/-9-3^
+Solution: 2197
+
+Infix   : ( ( 5 + 5 * ( 6 - 2 ) + 4 ^ 2 ) * 8 )
+Postfix : 5562-*+42^+8*
+Solution: 328
+
+Infix   : ( ( ( 3 ^ 4 ) ) )
+Postfix : 34^
+Solution: 81
+
